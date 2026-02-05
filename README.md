@@ -10,7 +10,7 @@ GoFetch is a minimalist command-line tool that fetches and displays system infor
 
 ## Features
 
-- **Real-time Monitoring**: Continuous updates of CPU, memory, and network information
+- **Real-time Monitoring**: Continuous updates of CPU, GPU, memory, and network information
 - **Comprehensive System Information**:
   - CPU name and real-time usage
   - GPU name and real-time usage
@@ -100,18 +100,6 @@ Please be aware that **networking functions (IP fetching and WiFi detection) may
 - **Platform**: Windows
 - **Terminal Compatibility**: Supports ANSI color codes (Windows 10+)
 - **Update Frequency**: 33ms refresh rate for smooth display updates
-
-## License
-
-[Add your license here]
-
-## Contributing
-
-Feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
-## Author
-
-[Your Name/GitHub]
 
 ---
 
