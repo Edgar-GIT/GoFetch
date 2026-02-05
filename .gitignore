@@ -1,0 +1,37 @@
+# Binaries for programs and plugins
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
+
+# Go workspace file
+go.work
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build output
+dist/
+build/
+
+# OS specific files
+Thumbs.db
+.DS_Store
+
+# GoFetch specific
+*.log
+temp/
